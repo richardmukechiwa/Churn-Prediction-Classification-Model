@@ -1,5 +1,7 @@
 # Churn Prediction Model Report
 
+![Customers](https://github.com/richardmukechiwa/Richard-Mukechiwa---Data-Scientist-Portfolio/blob/main/Customers.png)
+
 #### Overview
 This project aims to predict customer churn using various machine learning techniques, primarily focusing on XGBoost and Logistic Regression. By leveraging customer service data, the model aims to identify potential churners, enabling proactive retention strategies.
 
