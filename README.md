@@ -5,12 +5,18 @@ This project aims to predict customer churn using various machine learning techn
 
 #### Data
 
-The dataset includes features such as:
+Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
+
+The dataset has many features  but only the most important were used for the deployment such as:
 
 **InternetService:** Type of internet service used by the customer.
+
 **Contract:** Type of customer contract (month-to-month, yearly, etc.).
+
 **OnlineSecurity:** Whether the customer has opted for online security services.
+
 **PhoneService:** Whether the customer has a phone service.
+
 **TechSupport:** Whether the customer has opted for technical support services.
 
 #### Data Preprocessing
