@@ -35,10 +35,14 @@ Accuracy: 77.00%
 
 **Classification Report**
 
-                             Precision	Recall	F1-Score	Support
-           0  (Not Churn) 	0.88	    0.80	   0.84	    1036
-           1     (Churn)	  0.55	    0.69	   0.62	    373
- 
+       | Label            | Precision | Recall | F1-Score | Support |
+|------------------|-----------|--------|----------|---------|
+| 0 (Not Churn)    | 0.88      | 0.80   | 0.84     | 1036    |
+| 1 (Churn)        | 0.55      | 0.69   | 0.62     | 373     |
+
+*Additional Evaluation Metrics:*
+
+
 **Macro Average:**  Precision: 0.72, Recall: 0.75, F1-Score: 0.73
 
 **Weighted Average:** Precision: 0.79, Recall: 0.77, F1-Score: 0.78
