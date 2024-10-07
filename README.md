@@ -35,7 +35,7 @@ Accuracy: 77.00%
 
 **Classification Report**
 
-       | Label            | Precision | Recall | F1-Score | Support |
+| Label            | Precision | Recall | F1-Score | Support |
 |------------------|-----------|--------|----------|---------|
 | 0 (Not Churn)    | 0.88      | 0.80   | 0.84     | 1036    |
 | 1 (Churn)        | 0.55      | 0.69   | 0.62     | 373     |
