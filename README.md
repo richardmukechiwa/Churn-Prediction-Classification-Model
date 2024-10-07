@@ -1,4 +1,4 @@
-# Churn Prediction Model Report
+# Customer Churn Prediction Model Report
 
 ![Customers](https://github.com/richardmukechiwa/Richard-Mukechiwa---Data-Scientist-Portfolio/blob/main/Customers.png)
 
